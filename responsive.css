@@ -1,0 +1,64 @@
+
+@media (max-width: 768px) { 
+.nav-item
+{
+	
+border:none;
+margin:5px 0px;
+}
+.borrower-block h2 {
+    font-size: 24px;
+    margin-left: 15px;
+}
+.footer-content2 {
+    padding: 30px 30px;
+}
+.fichos-data h2 {
+    font-size: 32px;
+  }
+  .jumbotron {
+   
+    padding: 28px 0px;
+}
+.footer {
+    padding: 30px 0px;
+}
+.footer-content3 {
+    padding: 0px 30px;
+}
+.footer-content2 {
+    padding: 30px 30px 0px;
+}
+.navbar-brand img
+{
+	width:198px;
+}
+.carousel-caption h5 {
+    font-size: 16px;
+}
+.carousel-caption {
+    text-align: left;
+    top: 0px;
+}
+
+}
+@media (max-width: 992px) { 
+
+.nav-item
+{
+	
+border:none;
+margin:5px 0px;
+}
+.carousel-caption h5 {
+    font-size: 24px;
+}
+}
+@media (max-width: 1200px) { 
+
+.nav-item
+{
+
+font-size:14px;	
+}
+}
